@@ -4,7 +4,7 @@
 
 ### Research 
 
-[Reproduction regimes][/repr_reg]
+[Reproduction regimes](/repr_reg)
 <img src="images/rep_reg.png?raw=true"/>
 
 ---
