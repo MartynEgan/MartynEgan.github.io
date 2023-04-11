@@ -37,3 +37,5 @@ The above plot demonstrates the structuring effects of country and social class;
 ## References
 
 Le Roux, B., Bienaise, S., & Durand, J.-L. (2019). Combinatorial Inference in Geometric Data Analysis. Boca Raton: CRC Press.
+
+[Back](/index)
