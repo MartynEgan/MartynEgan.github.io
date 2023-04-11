@@ -20,6 +20,3 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-
-[def]: /repr_reg
