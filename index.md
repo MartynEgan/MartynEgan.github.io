@@ -5,7 +5,7 @@
 ### Research 
 
 [Reproduction regimes](/repr_reg)
-<img src="images/rep_reg.png?raw=true"/>
+<img src="images/rep_reg.png?raw=true" width = "50%" height = "50%" />
 
 ---
 
