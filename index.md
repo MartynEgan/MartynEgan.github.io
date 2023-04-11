@@ -4,19 +4,22 @@
 
 ### Research 
 
-[Reproduction Regimes](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reproduction regimes][/repr_reg]
+<img src="images/rep_reg.png?raw=true"/>
 
 ---
 
 ### Pedagogy
 
-[](/pdf/sample_presentation.pdf)
+[Teaching stats through github](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 3 Title](http://example.com/)
+[Improving pedagogy through technology: case study](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+
+[def]: /repr_reg
