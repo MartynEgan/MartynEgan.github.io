@@ -12,7 +12,7 @@
 ### Pedagogy
 
 [Teaching stats through github](/stats.html)  
-<img src="images/Animation.gif?raw=true"/>
+<img src="images/Animation.gif?raw=true" width = "70%" height = "70%" />
 
 ---
 
