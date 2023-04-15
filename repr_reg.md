@@ -6,7 +6,7 @@
 
 All active variables within the chosen dataset shared the same self-reported five-point Likert scale. For this reason PCA on the polychoric (rather than Pearson) correlation matrix was preferred.
 
-<img src="images/components.png?raw=true"/>
+<img src="images/components.png?raw=true" width = "50%" height = "50%"/>
 
 The above biplot was produced using a modified version of the `plotone()` function from the `psych` package in R (the original version only allows the density cloud to be plotted in blue).
 
@@ -16,7 +16,7 @@ An additional issue with PCA on the polychoric correlation matrix concerns estim
 
 The coordinates derived from PCA were used to perform geometric data analysis (GDA), in which categories of data are used to generate concentration ellipses, and the distribution of the ellipses is then analysed. 
 
-<img src="images/rep_reg.png?raw=true"/>
+<img src="images/rep_reg.png?raw=true" width = "70%" height = "70%"/>
 
 In the above plot, made using base R plotting functions, a number of simultaneous techniques are used to communicate information about the data: 
 
@@ -30,10 +30,12 @@ In the above plot, made using base R plotting functions, a number of simultaneou
 
 Alongside an exploration of the social space of reproduction, additional GDA techniques making use of combinatorial inference were applied to demonstrate the significance of the structures discovered. Among these were a crossed factors comparison of two countries, Great Britain (i.e. not including Northern Ireland) and Italy.
 
-<img src="images/cross_fac.png?raw=true"/>
+<img src="images/cross_fac.png?raw=true" width = "70%" height = "70%"/>
 
 The above plot demonstrates the structuring effects of country and social class; when combined with a homogeneity permutation test (Le Roux et al., 2019:107-152), the resulting analysis demonstrated that the size of main effect attributable to country was descriptively much larger than class. We see moreover from the plot that, for these two countries, the effect of class and country is orthogonal.
 
 ## References
 
 Le Roux, B., Bienaise, S., & Durand, J.-L. (2019). Combinatorial Inference in Geometric Data Analysis. Boca Raton: CRC Press.
+
+[Back](/index)
