@@ -11,8 +11,8 @@
 
 ### Pedagogy
 
-[Teaching stats through github](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Teaching stats through github](/stats.html)
+<img src="images/Animation.gif?raw=true"/>
 
 ---
 
@@ -20,6 +20,3 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-
-[def]: /repr_reg
