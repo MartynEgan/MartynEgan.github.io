@@ -41,9 +41,7 @@ In the existing teaching approach to this module students were already required 
 
 I decided therefore to explicitly integrate git and github within the weekly workflow of tutorials. Within the Statistics I *repository*, I placed each week a `tutorial` folder which was further divided into sub-folders for `code`, `data` and `results`. When students *forked* the main repository they gained access to copies of these folders on their own system, which they could then work with in R Studio. In this way, I could model students both the process needed to upload their own assignments, as well as good practice in managing future data science projects (version control, separation of code from data from results, etc.)
 
-
 ![*Github repository*](images/Animation.gif)
-
 
 As the term progressed students were required each week to *update* their github repositories, an iterative process which reinforced learning and helped students understand in an intuitive way how git/github works and, more importantly, *why* data scientists use it to keep track of projects and work collaboratively. Students were also continually required to interface git/github with R Studio, another important professional requirement, as much of data science involves getting different systems to interface with each other.
 
@@ -73,9 +71,7 @@ Nonetheless, the ability for students to work on problems during synchronous ses
 
 Another innovation I brought to this year's module concerned asynchronous feedback, paired with formative assessment. This related specifically to the house price project. I do not have any authority within the module for setting summative assessment, and given the significant workload placed on students I had decided not to set any asynchronous formative tasks for tutorial. However, during the house price project I did ask students to try to complete whatever they were working on in class and upload their group's results each week to the Blackboard discussion board. I found this asynchronous approach to work much better than in-class use of the discussion board, and when I also committed to provide students feedback on their uploaded material engagement improved further.
 
-
 ![*Blackboard discussion board*](images/Animation2.gif)
-
 
 Finally, the house price project culminated in a brief group presentation at the end of term, again purely formative, but which provided students with a pressure-free opportunity to present their results and receive both peer and instructor feedback. Again, group presentations offered a further opportunity to embed digital pedagogy, as students were able to choose which technology to use in presenting to class, and the requirement to provide peer feedback allowed students to assess for themselves which technologies were best at communicating data science results.
 
@@ -98,3 +94,25 @@ This kind of positive feedback loop was a marked contrast to the first year of t
 This vignette was created using `R markdown`, a modified version of the common `markdown` language designed to be used in collaboration with the [`R`](https://www.r-project.org/about.html) statistical programming language and `R Studio` integrated development environment (IDE). Advantages of RMD include the ability to integrate code and code output (plots, tables, etc.) within a single document, which can then be *knitted* to produce output in the form of `html`, PDF or MS Word documents.
 
 Teaching *through* RMD can introduce students to important data science concepts, including the need to communicate results clearly, and to produce output which is reproducible and shareable. RMD therefore has a pedagogical value in and of itself: it can be used by the instructor to produce informative summaries to share with class and teach with, while the student who learns how to use RMD gains experience in separating and compartmentalising the data science workflow, and communicating results.
+
+### Annotated Bibliography
+
+[Bates, Anthony W. (2019) Teaching in a digital age: Guidelines for designing teaching and learning. BC campus, 3rd Edtn.](https://opentextbc.ca/teachinginadigitalage/)
+
+*A practical framework for making decisions about technology use in HE teaching and learning*
+
+[Baumer, B., Cetinkaya-Rundel, M., Bray, A., Loi, L., & Horton, N. J. (2014). R Markdown: Integrating A Reproducible Analysis Tool into Introductory Statistics. Technology Innovations in Statistics Education, 8(1).](https://arxiv.org/abs/1402.1894)
+
+*Review of R Markdown as a pedagogical tool for teaching introductory statistics, including experiential and statistical evidence for its effectiveness*
+
+[Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media.](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+
+*Statistical handbook using R and Python to teach statistics for data scientists. I have used materials from this book to teach statistics with good results*
+
+[Hamilton, Erica R., Joshua M. Rosenberg, and Mete Akcaoglu. (2016) "The substitution augmentation modification redefinition (SAMR) model: A critical review and suggestions for its use." TechTrends 60: 433-441.](https://link-springer-com.elib.tcd.ie/article/10.1007/s11528-016-0091-y)
+
+*A (critical) review of the SAMR model, used to categorise technology implementation in pre-college US educational settings*
+
+[Zagalsky, Alexey, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, and Weiliang Wang. (2015) "The Emergence of GitHub as a Collaborative Platform for Education." Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing: 1906--1917.](https://dl-acm-org.elib.tcd.ie/doi/10.1145/2675133.2675284)
+
+*Qualitative review of current use of github in educational settings as a tool for collaborative working*
