@@ -9,6 +9,11 @@
 
 ---
 
+['The mystery of Dublin'](/Egan_M_Mystery_of_Dublin.pdf)
+Accepted manuscript for [*Economy & Society*](https://www.tandfonline.com/doi/full/10.1080/03085147.2023.2187997)
+
+---
+
 ### Pedagogy
 
 [Improving pedagogy through technology: vignette](/vignette.html)  
