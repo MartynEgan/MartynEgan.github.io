@@ -5,7 +5,7 @@
 ### Research 
 
 [Towards a Political Economy of Algorithmic Capitalism](http://ssrn.com/abstract=4869312)
-Under review with Capital and Class
+    Under review with Capital and Class
 
 ---
 
