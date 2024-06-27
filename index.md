@@ -9,7 +9,7 @@
 
 ---
 
-[Reproduction regimes](/repr_reg) [(SSRN)](http://ssrn.com/abstract=4759203)\  
+[Reproduction regimes](/repr_reg) [(SSRN)](http://ssrn.com/abstract=4759203)  
 <img src="images/rep_reg.png?raw=true" width = "70%" height = "70%" />
 
 ---
