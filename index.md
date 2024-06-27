@@ -4,13 +4,20 @@
 
 ### Research 
 
+[Towards a Political Economy of Algorithmic Capitalism](http://ssrn.com/abstract=4869312)
+Under review with Capital and Class
+
+---
+
 [Reproduction regimes](/repr_reg)  
 <img src="images/rep_reg.png?raw=true" width = "70%" height = "70%" />
+[SSRN](http://ssrn.com/abstract=4759203) 
 
 ---
 
 ['The mystery of Dublin'](/Egan_M_Mystery_of_Dublin.pdf)  
 Accepted manuscript for [*Economy & Society*](https://www.tandfonline.com/doi/full/10.1080/03085147.2023.2187997)
+[SSRN](http://ssrn.com/abstract=4869314)
 
 ---
 
