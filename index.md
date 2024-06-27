@@ -19,6 +19,11 @@ Accepted manuscript for [*Economy & Society*](https://www.tandfonline.com/doi/fu
 
 ---
 
+[Bourdieu in Beirut: *Wasta*, the State and Social Reproduction in Lebanon](https://www.tandfonline.com/doi/full/10.1080/19436149.2016.1168662)\
+(With Paul Tabar)
+
+---
+
 ### Pedagogy
 
 [Improving pedagogy through technology: vignette](/vignette.html)  
