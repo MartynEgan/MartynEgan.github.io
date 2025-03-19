@@ -4,8 +4,8 @@
 
 ### Research 
 
-[Towards a Political Economy of Algorithmic Capitalism](http://ssrn.com/abstract=4869312)\
-    Under review with Capital and Class
+[Towards a Political Economy of Algorithmic Capitalism](https://doi.org/10.1177/03098168251326189)\
+    Recently published in [Capital and Class](https://journals.sagepub.com/home/cnc)
 
 ---
 
